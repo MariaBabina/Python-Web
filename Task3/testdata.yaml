@@ -1,0 +1,9 @@
+address: "https://test-stand.gb.ru"
+username: "Marusya"
+password: "fdfdbe00c0"
+browser: "chrome"
+wait_time: 5
+contact_name: "Test User"
+contact_email: "testuser@example.com"
+contact_message: "This is a test message for the Contact Us form."
+expected_alert_text: "Form successfully submitted"
