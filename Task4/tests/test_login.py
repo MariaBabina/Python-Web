@@ -1,7 +1,7 @@
 import pytest
-from pages.login_page import LoginPage
-from config.config import testdata
-from utils.logger import logger
+from Task4.pages.login_page import LoginPage
+from Task4.config.config import testdata
+from Task4.utils.logger import logger
 from selenium.webdriver.common.by import By
 
 @pytest.mark.usefixtures("browser")
